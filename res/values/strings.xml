@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">Samsung Data Connection Icon Fix</string>
+    <string name="app_description">Get rid of wacky carrier-specific data connection icons on Samsung devices.</string>
+
+</resources>
